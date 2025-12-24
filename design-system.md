@@ -5,7 +5,7 @@
 BACKGROUND
 - primary: white → cyan-50 (gradient)
 - secondary: white
-- accent: sky-500 → cyan-500 (gradient)
+- accent: sky-600 → cyan-600 (gradient)
 
 BORDER
 - default: gray-200
