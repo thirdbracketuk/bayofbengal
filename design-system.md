@@ -21,6 +21,10 @@ FOREGROUND
 - muted text: gray-500
 - on-accent: white / sky-100
 
+![Alt text](https://raw.githubusercontent.com/thirdbracketuk/bayofbengal/refs/heads/main/l.png)
+
+
+
 ## Dark
 
 BACKGROUND
@@ -41,4 +45,6 @@ FOREGROUND
 - secondary text: gray-400
 - muted text: gray-500
 - on-accent: white / sky-100
+
+![Alt text](https://raw.githubusercontent.com/thirdbracketuk/bayofbengal/refs/heads/main/d.png)
 
